@@ -1,0 +1,11 @@
+{
+  "name": "easy-factorissimo2-start",
+  "version": "1.0.0",
+  "title": "Easy Factorissimo 2 Start",
+  "author": "Xeno Lupus",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "0.15",
+  "dependencies": ["base >= 0.15", "Factorissimo2 >= 2.1.0"],
+  "description": "Start with the Factorissimo 2 buildings and connectors already researched."
+}
